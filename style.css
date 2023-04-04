@@ -97,19 +97,19 @@ html {
   background-size:cover;
 }
 body {
-  max-width:900px;
-  margin:0 auto;
+  max-width:800px;
+  margin:25px auto;
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
-  padding:0;
+  padding:2.5;
   color:#FFFFFF; 
 }
 
 /* Menu Links */
 ul.main-menu {
   margin: 0;
-  padding: 0;
+  padding: 2.5;
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
