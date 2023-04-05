@@ -91,7 +91,7 @@ blockquote {
  */
 
 /* Full size background image */
-/* html, #container, .inner { background-color:transparent;}
+html, #container, .inner { background-color:transparent;}
 html {
   background:url(background.jpg) center center no-repeat fixed;
   background-size:cover;
@@ -104,7 +104,7 @@ header, #content, footer {
   background: rgba(0,0,0,.8); 
   padding:2.5;
   color:#FFFFFF; 
-} */
+}
 
 /* Menu Links */
 ul.main-menu {
